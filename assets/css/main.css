@@ -2818,7 +2818,6 @@ input, select, textarea {
 
 	#header {
 		padding: 2em 0 0.1em 0 ;
-		margin-right: 3em;
 	}
 
 		#header .logo {
@@ -2828,6 +2827,7 @@ input, select, textarea {
 			font-weight: 900;
 			letter-spacing: 0.35em;
 			margin: 0 0 2.5em 0;
+			margin-right: 3em;
 			text-decoration: none;
 			text-transform: uppercase;
 			display: inline-block;
