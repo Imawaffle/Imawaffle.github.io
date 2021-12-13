@@ -3152,7 +3152,8 @@ input, select, textarea {
 		}
 		
 		#main .center {
-			width: 25%;
+			width: 5%;
+			height: 5%;
 			position: absolute;
 			left: 50%;
 			top: 50%;
