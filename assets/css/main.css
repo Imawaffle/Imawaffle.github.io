@@ -1848,7 +1848,7 @@ input, select, textarea {
 			display: inline-block;
 			text-align: center;
 			line-height: 2.65em;
-			color: inherit;
+			color: black;
 		}
 
 			.icon.style2:before {
