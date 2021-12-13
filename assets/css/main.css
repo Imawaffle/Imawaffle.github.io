@@ -2818,6 +2818,7 @@ input, select, textarea {
 
 	#header {
 		padding: 2em 0 0.1em 0 ;
+		margin-right: 5em;
 	}
 
 		#header .logo {
@@ -2846,10 +2847,6 @@ input, select, textarea {
 					width: 5em;
 					height: 5em;
 				}
-				
-			#header .logo .title {
-				margin-right: 5em;
-			}
 
 		#header nav {
 			position: fixed;
